@@ -135,8 +135,8 @@ app.get('/download-json', (req, res) => {
   });
 });
 // Start the server on port 3000
-const port = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 // const port =  3000;
-app.listen(port, () => {
+app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
