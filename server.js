@@ -120,6 +120,15 @@ app.get('/user-data', (req, res) => {
   });
 });
 
+app.get('/download-json', (req, res) => {
+  // Send the user_data.json file for download
+  res.download(userDataFilePath, 'user_data.json', (err) => {
+    if (err) {
+      console.error('Error downloading file:', err);
+      res.status(500).json({ message: 'Failed to download file' });
+    }
+  });
+});
 // Start the server on port 3000
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
