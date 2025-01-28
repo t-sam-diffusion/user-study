@@ -112,7 +112,7 @@ document.addEventListener("DOMContentLoaded", () => {
       userProgress: userProgress  // Send unified progress
     };
 
-    fetch("http://localhost:3000/save-data", {
+    fetch("/save-data", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
@@ -207,7 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Fetch saved user data from the server
   const fetchUserDataFromServer = (userName) => {
-    return fetch(`http://localhost:3000/user-data?userName=${userName}`)
+    return fetch(`/user-data?userName=${userName}`)
       .then(response => response.json())
       .then(data => data.userData)  // Assuming the server returns userData
       .catch(error => {
