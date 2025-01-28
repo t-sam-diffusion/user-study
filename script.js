@@ -39,11 +39,26 @@ document.addEventListener("DOMContentLoaded", () => {
     // Assuming `triplet` contains an array of 3 image URLs and a prompt
     const selectedTriplet = triplet.slice(0, 3); // Get the first 3 elements (images)
     
-    selectedTriplet.forEach((image, index) => {
+    const shuffleArray = (array) => {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    };
+    
+    // Shuffle the selectedTriplet array without changing (image, index) pairs
+    const shuffledTriplet = shuffleArray([...selectedTriplet]);
+    
+    // Render the images in the shuffled order
+    shuffledTriplet.forEach((image, index) => {
       const img = document.createElement("img");
       img.src = image;
       img.alt = "Selectable Image";
-      img.addEventListener("click", () => handleImageClick(index + 1)); // Pass choice (1, 2, or 3)
+    
+      // Preserve the original index for handleImageClick
+      const originalIndex = selectedTriplet.indexOf(image);
+      img.addEventListener("click", () => handleImageClick(originalIndex + 1)); // Pass the correct choice
       imagesContainer.appendChild(img);
     });
   
