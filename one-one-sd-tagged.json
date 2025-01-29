@@ -1,0 +1,962 @@
+[
+  [
+    "user_images/rebuttal/objects/conform/a purple chair and a red bow_seed_33.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_33.jpg",
+    "a purple chair and a red bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_33.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_33.jpg",
+    "a rabbit and a white balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_56.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_56.jpg",
+    "a bird with a bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a black crown and a red car_seed_21.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_21.jpg",
+    "a black crown and a red car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a gray bowl_seed_45.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_45.jpg",
+    "a yellow glasses and a gray bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a black crown and a red car_seed_44.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_44.jpg",
+    "a black crown and a red car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white balloon and a white apple_seed_37.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_37.jpg",
+    "a white balloon and a white apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_49.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_49.jpg",
+    "a frog and a black apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_25.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_25.jpg",
+    "a frog and a black apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_61.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_61.jpg",
+    "a rabbit and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_54.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_54.jpg",
+    "a turtle and a yellow bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a pink bow and a gray apple_seed_29.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_29.jpg",
+    "a pink bow and a gray apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_9.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_9.jpg",
+    "a bird with a bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a black crown and a red car_seed_49.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_49.jpg",
+    "a black crown and a red car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_24.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_24.jpg",
+    "a cat and a red apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_46.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_46.jpg",
+    "a bird with a bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_7.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_7.jpg",
+    "a turtle and a yellow car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_21.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_21.jpg",
+    "a lion and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a pink bow and a gray apple_seed_24.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_24.jpg",
+    "a pink bow and a gray apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a pink bow and a gray apple_seed_29.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_29.jpg",
+    "a pink bow and a gray apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown balloon and a pink car_seed_7.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_7.jpg",
+    "a brown balloon and a pink car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white bow and a black clock_seed_5.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_5.jpg",
+    "a white bow and a black clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white bow and a black clock_seed_5.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_5.jpg",
+    "a white bow and a black clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_4.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_4.jpg",
+    "a turtle and a yellow bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white bow and a black clock_seed_48.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_48.jpg",
+    "a white bow and a black clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown balloon and a pink car_seed_2.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_2.jpg",
+    "a brown balloon and a pink car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_47.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_47.jpg",
+    "a elephant and a green balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_18.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_18.jpg",
+    "a cat and a red apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_18.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_18.jpg",
+    "a cat and a red apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_6.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_6.jpg",
+    "a turtle and a yellow car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_61.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_61.jpg",
+    "a cat and a red apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_58.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_58.jpg",
+    "a cat with a crown",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_4.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_4.jpg",
+    "a elephant and a green balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white balloon and a white apple_seed_43.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_43.jpg",
+    "a white balloon and a white apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a purple chair and a red bow_seed_33.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_33.jpg",
+    "a purple chair and a red bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white balloon and a white apple_seed_2.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_2.jpg",
+    "a white balloon and a white apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown balloon and a pink car_seed_34.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_34.jpg",
+    "a brown balloon and a pink car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown chair and a white bench_seed_18.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_18.jpg",
+    "a brown chair and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a gray bowl_seed_1.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_1.jpg",
+    "a yellow glasses and a gray bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white bow and a black clock_seed_29.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_29.jpg",
+    "a white bow and a black clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown chair and a white bench_seed_52.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_52.jpg",
+    "a brown chair and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a gray bowl_seed_1.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_1.jpg",
+    "a yellow glasses and a gray bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_33.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_33.jpg",
+    "a rabbit and a white balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white balloon and a white apple_seed_22.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_22.jpg",
+    "a white balloon and a white apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_48.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_48.jpg",
+    "a turtle and a yellow car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_41.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_41.jpg",
+    "a turtle and a yellow car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_34.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_34.jpg",
+    "a frog and a black apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_18.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_18.jpg",
+    "a frog and a black apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_33.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_33.jpg",
+    "a cat with a crown",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_41.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_41.jpg",
+    "a turtle and a yellow car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_61.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_61.jpg",
+    "a rabbit and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_25.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_25.jpg",
+    "a turtle and a yellow bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_56.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_56.jpg",
+    "a bird with a bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a pink bow and a gray apple_seed_24.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_24.jpg",
+    "a pink bow and a gray apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_59.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_59.jpg",
+    "a lion and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_24.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_24.jpg",
+    "a cat and a red apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a orange glasses and a pink clock_seed_10.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_10.jpg",
+    "a orange glasses and a pink clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown chair and a white bench_seed_49.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_49.jpg",
+    "a brown chair and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_51.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_51.jpg",
+    "a cat and a red apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown chair and a white bench_seed_14.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_14.jpg",
+    "a brown chair and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_34.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_34.jpg",
+    "a frog and a black apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white balloon and a white apple_seed_43.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_43.jpg",
+    "a white balloon and a white apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_15.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_15.jpg",
+    "a lion and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a gray bowl_seed_48.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_48.jpg",
+    "a yellow glasses and a gray bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a orange glasses and a pink clock_seed_56.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_56.jpg",
+    "a orange glasses and a pink clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_6.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_6.jpg",
+    "a turtle and a yellow car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a gray bowl_seed_57.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_57.jpg",
+    "a yellow glasses and a gray bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown balloon and a pink car_seed_7.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_7.jpg",
+    "a brown balloon and a pink car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a gray bowl_seed_45.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_45.jpg",
+    "a yellow glasses and a gray bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_20.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_20.jpg",
+    "a elephant and a green balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_4.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_4.jpg",
+    "a turtle and a yellow bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a orange glasses and a pink clock_seed_2.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_2.jpg",
+    "a orange glasses and a pink clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a black car_seed_36.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_36.jpg",
+    "a yellow glasses and a black car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_18.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_18.jpg",
+    "a frog and a black apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_21.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_21.jpg",
+    "a lion and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_20.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_20.jpg",
+    "a turtle and a yellow bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_46.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_46.jpg",
+    "a rabbit and a white balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a purple chair and a red bow_seed_0.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_0.jpg",
+    "a purple chair and a red bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_11.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_11.jpg",
+    "a cat with a crown",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white balloon and a white apple_seed_37.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_37.jpg",
+    "a white balloon and a white apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a black car_seed_36.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_36.jpg",
+    "a yellow glasses and a black car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_49.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_49.jpg",
+    "a frog and a black apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a pink bow and a gray apple_seed_61.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_61.jpg",
+    "a pink bow and a gray apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_25.jpg",
+    "user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_25.jpg",
+    "a frog and a black apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_16.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_16.jpg",
+    "a rabbit and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a black crown and a red car_seed_21.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_21.jpg",
+    "a black crown and a red car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a orange glasses and a pink clock_seed_58.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_58.jpg",
+    "a orange glasses and a pink clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a orange glasses and a pink clock_seed_10.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_10.jpg",
+    "a orange glasses and a pink clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a black car_seed_22.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_22.jpg",
+    "a yellow glasses and a black car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_25.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_25.jpg",
+    "a turtle and a yellow bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_48.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_48.jpg",
+    "a turtle and a yellow car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_6.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_6.jpg",
+    "a rabbit and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown chair and a white bench_seed_18.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_18.jpg",
+    "a brown chair and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white bow and a black clock_seed_29.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_29.jpg",
+    "a white bow and a black clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_16.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_16.jpg",
+    "a rabbit and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_36.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_36.jpg",
+    "a bird with a bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_29.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_29.jpg",
+    "a cat with a crown",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a purple chair and a red bow_seed_0.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_0.jpg",
+    "a purple chair and a red bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white bow and a black clock_seed_48.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_48.jpg",
+    "a white bow and a black clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_37.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_37.jpg",
+    "a rabbit and a white balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_17.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_17.jpg",
+    "a lion and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white balloon and a white apple_seed_22.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_22.jpg",
+    "a white balloon and a white apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_62.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_62.jpg",
+    "a rabbit and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_55.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_55.jpg",
+    "a elephant and a green balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a purple chair and a red bow_seed_8.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_8.jpg",
+    "a purple chair and a red bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_46.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_46.jpg",
+    "a rabbit and a white balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_6.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_6.jpg",
+    "a rabbit and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a orange glasses and a pink clock_seed_56.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_56.jpg",
+    "a orange glasses and a pink clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a orange glasses and a pink clock_seed_58.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_58.jpg",
+    "a orange glasses and a pink clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_20.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_20.jpg",
+    "a turtle and a yellow bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown balloon and a pink car_seed_49.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_49.jpg",
+    "a brown balloon and a pink car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_54.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_54.jpg",
+    "a turtle and a yellow bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_9.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_9.jpg",
+    "a bird with a bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a purple chair and a red bow_seed_8.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_8.jpg",
+    "a purple chair and a red bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a black crown and a red car_seed_55.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_55.jpg",
+    "a black crown and a red car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white balloon and a white apple_seed_2.jpg",
+    "user_images/rebuttal/objects/ours/a white balloon and a white apple_seed_2.jpg",
+    "a white balloon and a white apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a pink bow and a gray apple_seed_61.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_61.jpg",
+    "a pink bow and a gray apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a black crown and a red car_seed_49.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_49.jpg",
+    "a black crown and a red car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown balloon and a pink car_seed_34.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_34.jpg",
+    "a brown balloon and a pink car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a black car_seed_22.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_22.jpg",
+    "a yellow glasses and a black car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_59.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_59.jpg",
+    "a lion and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_26.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_26.jpg",
+    "a rabbit and a white balloon",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a black car_seed_40.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_40.jpg",
+    "a yellow glasses and a black car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_11.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_11.jpg",
+    "a cat with a crown",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_4.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_4.jpg",
+    "a elephant and a green balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_62.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_62.jpg",
+    "a rabbit and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_55.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_55.jpg",
+    "a elephant and a green balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown chair and a white bench_seed_52.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_52.jpg",
+    "a brown chair and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_33.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_33.jpg",
+    "a cat with a crown",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown balloon and a pink car_seed_49.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_49.jpg",
+    "a brown balloon and a pink car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_61.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_61.jpg",
+    "a cat and a red apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown balloon and a pink car_seed_2.jpg",
+    "user_images/rebuttal/objects/ours/a brown balloon and a pink car_seed_2.jpg",
+    "a brown balloon and a pink car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_37.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_37.jpg",
+    "a rabbit and a white balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_17.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_17.jpg",
+    "a lion and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a black crown and a red car_seed_55.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_55.jpg",
+    "a black crown and a red car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a black car_seed_13.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_13.jpg",
+    "a yellow glasses and a black car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a white bow and a black clock_seed_47.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_47.jpg",
+    "a white bow and a black clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a pink bow and a gray apple_seed_63.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_63.jpg",
+    "a pink bow and a gray apple",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_46.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_46.jpg",
+    "a bird with a bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_7.jpg",
+    "user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_7.jpg",
+    "a turtle and a yellow car",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a black car_seed_40.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_40.jpg",
+    "a yellow glasses and a black car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a brown chair and a white bench_seed_14.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_14.jpg",
+    "a brown chair and a white bench",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a white bow and a black clock_seed_47.jpg",
+    "user_images/rebuttal/objects/ours/a white bow and a black clock_seed_47.jpg",
+    "a white bow and a black clock",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_36.jpg",
+    "user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_36.jpg",
+    "a bird with a bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_15.jpg",
+    "user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_15.jpg",
+    "a lion and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_20.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_20.jpg",
+    "a elephant and a green balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_29.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_29.jpg",
+    "a cat with a crown",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_47.jpg",
+    "user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_47.jpg",
+    "a elephant and a green balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_58.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_58.jpg",
+    "a cat with a crown",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a purple chair and a red bow_seed_11.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_11.jpg",
+    "a purple chair and a red bow",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a orange glasses and a pink clock_seed_2.jpg",
+    "user_images/rebuttal/objects/ours/a orange glasses and a pink clock_seed_2.jpg",
+    "a orange glasses and a pink clock",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_51.jpg",
+    "user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_51.jpg",
+    "a cat and a red apple",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_26.jpg",
+    "user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_26.jpg",
+    "a rabbit and a white balloon",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a purple chair and a red bow_seed_11.jpg",
+    "user_images/rebuttal/objects/ours/a purple chair and a red bow_seed_11.jpg",
+    "a purple chair and a red bow",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a gray bowl_seed_57.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_57.jpg",
+    "a yellow glasses and a gray bowl",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a yellow glasses and a black car_seed_13.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a black car_seed_13.jpg",
+    "a yellow glasses and a black car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/LB/a yellow glasses and a gray bowl_seed_48.jpg",
+    "user_images/rebuttal/objects/ours/a yellow glasses and a gray bowl_seed_48.jpg",
+    "a yellow glasses and a gray bowl",
+    "LB"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a black crown and a red car_seed_44.jpg",
+    "user_images/rebuttal/objects/ours/a black crown and a red car_seed_44.jpg",
+    "a black crown and a red car",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a brown chair and a white bench_seed_49.jpg",
+    "user_images/rebuttal/objects/ours/a brown chair and a white bench_seed_49.jpg",
+    "a brown chair and a white bench",
+    "conform"
+  ],
+  [
+    "user_images/rebuttal/objects/conform/a pink bow and a gray apple_seed_63.jpg",
+    "user_images/rebuttal/objects/ours/a pink bow and a gray apple_seed_63.jpg",
+    "a pink bow and a gray apple",
+    "conform"
+  ]
+]

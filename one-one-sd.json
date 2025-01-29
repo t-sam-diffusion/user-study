@@ -1,0 +1,804 @@
+[
+  [
+    "./user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_36.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_36.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_46.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_46.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_56.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_56.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a bird with a bow_seed_9.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_9.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_18.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_18.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_24.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_24.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_51.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_51.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat and a red apple_seed_61.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_61.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_11.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_11.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_29.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_29.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_33.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_33.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a cat with a crown_seed_58.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_58.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_20.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_20.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_4.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_4.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_47.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_47.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a elephant and a green balloon_seed_55.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_55.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_18.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_18.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_25.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_25.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_34.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_34.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a frog and a black apple_seed_49.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_49.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_15.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_15.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_17.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_17.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_21.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_21.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a lion and a white bench_seed_59.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_59.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_26.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_26.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_33.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_33.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_37.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_37.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white balloon_seed_46.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_46.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_16.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_16.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_6.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_6.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_61.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_61.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a rabbit and a white bench_seed_62.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_62.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_20.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_20.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_25.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_25.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_4.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_4.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow bowl_seed_54.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_54.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_41.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_41.jpg",
+    "a turtle and a yellow car"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_48.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_48.jpg",
+    "a turtle and a yellow car"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_6.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_6.jpg",
+    "a turtle and a yellow car"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/conform/a turtle and a yellow car_seed_7.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_7.jpg",
+    "a turtle and a yellow car"
+  ],
+    [
+      "./user_images/rebuttal/objects/conform/a bird with a bow_seed_36.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_36.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a bird with a bow_seed_46.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_46.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a bird with a bow_seed_56.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_56.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a bird with a bow_seed_9.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_9.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat and a red apple_seed_18.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_18.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat and a red apple_seed_24.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_24.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat and a red apple_seed_51.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_51.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat and a red apple_seed_61.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_61.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat with a crown_seed_11.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_11.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat with a crown_seed_29.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_29.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat with a crown_seed_33.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_33.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a cat with a crown_seed_58.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_58.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a elephant and a green balloon_seed_20.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_20.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a elephant and a green balloon_seed_4.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_4.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a elephant and a green balloon_seed_47.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_47.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a elephant and a green balloon_seed_55.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_55.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a frog and a black apple_seed_18.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_18.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a frog and a black apple_seed_25.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_25.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a frog and a black apple_seed_34.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_34.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a frog and a black apple_seed_49.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_49.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a lion and a white bench_seed_15.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_15.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a lion and a white bench_seed_17.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_17.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a lion and a white bench_seed_21.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_21.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a lion and a white bench_seed_59.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_59.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white balloon_seed_26.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_26.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white balloon_seed_33.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_33.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white balloon_seed_37.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_37.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white balloon_seed_46.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_46.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white bench_seed_16.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_16.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white bench_seed_6.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_6.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white bench_seed_61.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_61.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a rabbit and a white bench_seed_62.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_62.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow bowl_seed_20.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_20.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow bowl_seed_25.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_25.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow bowl_seed_4.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_4.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow bowl_seed_54.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_54.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow car_seed_41.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_41.jpg",
+      "a turtle and a yellow car"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow car_seed_48.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_48.jpg",
+      "a turtle and a yellow car"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow car_seed_6.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_6.jpg",
+      "a turtle and a yellow car"
+    ],
+    [
+      "./user_images/rebuttal/objects/conform/a turtle and a yellow car_seed_7.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_7.jpg",
+      "a turtle and a yellow car"
+    ]
+    ,
+  [
+    "./user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_36.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_36.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_46.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_46.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_56.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_56.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a bird with a bow_seed_9.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a bird with a bow_seed_9.jpg",
+    "a bird with a bow"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_18.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_18.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_24.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_24.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_51.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_51.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat and a red apple_seed_61.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat and a red apple_seed_61.jpg",
+    "a cat and a red apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_11.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_11.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_29.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_29.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_33.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_33.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a cat with a crown_seed_58.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a cat with a crown_seed_58.jpg",
+    "a cat with a crown"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_20.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_20.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_4.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_4.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_47.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_47.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a elephant and a green balloon_seed_55.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a elephant and a green balloon_seed_55.jpg",
+    "a elephant and a green balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_18.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_18.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_25.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_25.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_34.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_34.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a frog and a black apple_seed_49.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a frog and a black apple_seed_49.jpg",
+    "a frog and a black apple"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_15.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_15.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_17.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_17.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_21.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_21.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a lion and a white bench_seed_59.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a lion and a white bench_seed_59.jpg",
+    "a lion and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_26.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_26.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_33.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_33.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_37.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_37.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white balloon_seed_46.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white balloon_seed_46.jpg",
+    "a rabbit and a white balloon"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_16.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_16.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_6.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_6.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_61.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_61.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a rabbit and a white bench_seed_62.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a rabbit and a white bench_seed_62.jpg",
+    "a rabbit and a white bench"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_20.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_20.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_25.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_25.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_4.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_4.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow bowl_seed_54.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow bowl_seed_54.jpg",
+    "a turtle and a yellow bowl"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_41.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_41.jpg",
+    "a turtle and a yellow car"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_48.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_48.jpg",
+    "a turtle and a yellow car"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_6.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_6.jpg",
+    "a turtle and a yellow car"
+  ],
+  [
+    "./user_images/rebuttal/animals_objects/LB/a turtle and a yellow car_seed_7.jpg",
+    "./user_images/rebuttal/animals_objects/ours/a turtle and a yellow car_seed_7.jpg",
+    "a turtle and a yellow car"
+  ],
+    [
+      "./user_images/rebuttal/objects/LB/a bird with a bow_seed_36.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_36.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a bird with a bow_seed_46.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_46.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a bird with a bow_seed_56.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_56.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a bird with a bow_seed_9.jpg",
+      "./user_images/rebuttal/objects/ours/a bird with a bow_seed_9.jpg",
+      "a bird with a bow"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat and a red apple_seed_18.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_18.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat and a red apple_seed_24.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_24.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat and a red apple_seed_51.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_51.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat and a red apple_seed_61.jpg",
+      "./user_images/rebuttal/objects/ours/a cat and a red apple_seed_61.jpg",
+      "a cat and a red apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat with a crown_seed_11.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_11.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat with a crown_seed_29.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_29.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat with a crown_seed_33.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_33.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a cat with a crown_seed_58.jpg",
+      "./user_images/rebuttal/objects/ours/a cat with a crown_seed_58.jpg",
+      "a cat with a crown"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a elephant and a green balloon_seed_20.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_20.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a elephant and a green balloon_seed_4.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_4.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a elephant and a green balloon_seed_47.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_47.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a elephant and a green balloon_seed_55.jpg",
+      "./user_images/rebuttal/objects/ours/a elephant and a green balloon_seed_55.jpg",
+      "a elephant and a green balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a frog and a black apple_seed_18.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_18.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a frog and a black apple_seed_25.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_25.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a frog and a black apple_seed_34.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_34.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a frog and a black apple_seed_49.jpg",
+      "./user_images/rebuttal/objects/ours/a frog and a black apple_seed_49.jpg",
+      "a frog and a black apple"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a lion and a white bench_seed_15.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_15.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a lion and a white bench_seed_17.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_17.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a lion and a white bench_seed_21.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_21.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a lion and a white bench_seed_59.jpg",
+      "./user_images/rebuttal/objects/ours/a lion and a white bench_seed_59.jpg",
+      "a lion and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white balloon_seed_26.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_26.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white balloon_seed_33.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_33.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white balloon_seed_37.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_37.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white balloon_seed_46.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white balloon_seed_46.jpg",
+      "a rabbit and a white balloon"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white bench_seed_16.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_16.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white bench_seed_6.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_6.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white bench_seed_61.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_61.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a rabbit and a white bench_seed_62.jpg",
+      "./user_images/rebuttal/objects/ours/a rabbit and a white bench_seed_62.jpg",
+      "a rabbit and a white bench"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow bowl_seed_20.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_20.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow bowl_seed_25.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_25.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow bowl_seed_4.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_4.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow bowl_seed_54.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow bowl_seed_54.jpg",
+      "a turtle and a yellow bowl"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow car_seed_41.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_41.jpg",
+      "a turtle and a yellow car"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow car_seed_48.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_48.jpg",
+      "a turtle and a yellow car"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow car_seed_6.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_6.jpg",
+      "a turtle and a yellow car"
+    ],
+    [
+      "./user_images/rebuttal/objects/LB/a turtle and a yellow car_seed_7.jpg",
+      "./user_images/rebuttal/objects/ours/a turtle and a yellow car_seed_7.jpg",
+      "a turtle and a yellow car"
+    ]
+]
+

@@ -72,6 +72,7 @@ header.game-header .description {
   justify-content: center;
   margin-top: 20px;
   flex-direction: row;
+  flex-wrap: 'wrap';
 }
 
 #image-container img {
@@ -90,8 +91,9 @@ header.game-header .description {
 .prompt {
   width: 100%;  /* Make prompt take up full width */
   margin-top: 10px;  /* Optional: space between images and the prompt */
-  font-size: 16px;
+  font-size: 20px;
   text-align: center;
+  font-weight: bold;
 }
 
 aside.leaderboard {
@@ -160,7 +162,21 @@ aside.leaderboard ul li {
   /* transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease; Smooth transition effects */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
-
+.tie-button {
+  position: fixed;
+  bottom: 100px;  /* Adjust to place it above the Save button */
+  left: 50%;
+  transform: translateX(-50%);  /* Center horizontally */
+  padding: 12px 24px;  /* Same padding as save button */
+  background-color: #4CAF50;  /* Green background */
+  color: white;  /* White text */
+  border: none;  /* Remove default border */
+  border-radius: 8px;  /* Rounded corners for a softer look */
+  cursor: pointer;  /* Pointer cursor on hover */
+  font-size: 16px;  /* Ensure text is readable */
+  font-weight: bold;  /* Bold text for emphasis */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Subtle shadow for depth */
+}
 /* Hover effect for the Save button */
 .save-button:hover {
   background-color: #45a049; /* Darker green when hovered */

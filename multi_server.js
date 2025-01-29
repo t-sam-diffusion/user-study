@@ -33,7 +33,7 @@ initializeUserDataFile();
 
 // Define a route for the root URL to serve your index.html
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'user_study.html'));
+  res.sendFile(path.join(__dirname, 'multi_user_study.html'));
 });
 
 // Helper function to read user data from file
@@ -52,7 +52,6 @@ const readUserData = (callback) => {
     }
   });
 };
-
 
 app.post('/save-data', (req, res) => {
   const userData = req.body;
@@ -88,6 +87,19 @@ app.post('/save-data', (req, res) => {
       userDataList.push(dataToSave);
     }
 
+    // Calculate the summary of 1s, 2s, and 3s across all userChoices
+    const choiceCounts = { 1: 0, 2: 0, 3: 0 };
+    userDataList.forEach(user => {
+      user.userChoices.forEach(([_, choice]) => {
+        if (choiceCounts.hasOwnProperty(choice)) {
+          choiceCounts[choice]++;
+        }
+      });
+    });
+
+    // Append the summary to the data
+    userDataList.push(choiceCounts);
+
     // Write the updated list back to the file
     fs.writeFile(userDataFilePath, JSON.stringify(userDataList, null, 2), (writeErr) => {
       if (writeErr) {
@@ -96,31 +108,8 @@ app.post('/save-data', (req, res) => {
       }
 
       console.log('Data saved successfully!');
-      res.json({ message: 'Data saved successfully!' });
+      res.json({ message: 'Data saved successfully!', summary: choiceCounts });
     });
-  });
-});
-
-// New route to view the choice counts
-app.get('/view-json', (req, res) => {
-  // Read the user data from file
-  readUserData((err, userDataList) => {
-    if (err) {
-      return res.status(500).json({ message: 'Failed to read existing data' });
-    }
-
-    // Calculate the summary of 1s, 2s, and 3s across all userChoices
-    const choiceCounts = {'conform':{ 1: 0, 2: 0, 0:0},'LB':{ 1: 0, 2: 0,0:0 }};
-    userDataList.forEach(user => {
-      user.userChoices.forEach(([_, choice, tag]) => {
-        if (choiceCounts.hasOwnProperty(tag) && choiceCounts[tag].hasOwnProperty(choice)) {
-          choiceCounts[tag][choice]++;
-        }
-      });
-    });
-
-    // Send the summary as a response
-    res.json({ choiceCounts });
   });
 });
 
@@ -158,8 +147,8 @@ app.get('/download-json', (req, res) => {
   });
 });
 // Start the server on port 3000
-const PORT = process.env.PORT || 3000;
-// const PORT =  3000;
+// const PORT = process.env.PORT || 3000;
+const PORT =  3000;
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
