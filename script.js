@@ -217,7 +217,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   const fetchUserDataFromServer = (userName) => {
-    return fetch(`http://localhost:3000/user-data?userName=${userName}`)
+    return fetch(`user-data?userName=${userName}`)
       .then(response => response.json())
       .then(data => data.userData)
       .catch(error => {
