@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .catch((error) => console.error('Error loading batchs:', error)); // Catch any errors
   };
+
   const renderSinglebatch = (batch) => {
     imageContainer.innerHTML = ""; // Clear the container before rendering the new batch
 
@@ -97,37 +98,38 @@ document.addEventListener("DOMContentLoaded", () => {
     imageContainer.appendChild(batchContainer);
 
     updateStepCounter();
+    toggleSaveButtonVisibility();
 };
 
   const updateStepCounter = () => {
-    stepCounter.textContent = `Step ${userProgress} of 160`;  // Use userProgress for display
+    stepCounter.textContent = `Step ${userProgress+1} of 160`;  // Use userProgress for display
+  };
+
+  const toggleSaveButtonVisibility = () => {
+    if (userProgress === 159) {
+      saveButton.style.display = 'none';
+    } else {
+      saveButton.style.display = 'block';
+    }
   };
   
-  const handleImageClick = (choice,tag) => {
-    userChoices.push([userProgress, choice,tag]);
+  const handleImageClick = (choice, tag) => {
+    userChoices.push([userProgress, choice, tag]);
 
     userProgress++;  // Increment unified progress
     renderImages();
-    if (userProgress === 159) {
+    if (userProgress === 160) {
       const thankYouMessage = document.createElement("div");
-      thankYouMessage.textContent = "Thank you for completing this step!";
-      thankYouMessage.style.color = "green";
-      thankYouMessage.style.marginTop = "20px";
-      thankYouMessage.style.position = "fixed";
-      thankYouMessage.style.top = "50%";
-      thankYouMessage.style.left = "50%";
-      thankYouMessage.style.transform = "translate(-50%, -50%)";
-      thankYouMessage.style.zIndex = "9999";
-      thankYouMessage.style.padding = "20px 40px";
-      thankYouMessage.style.backgroundColor = "rgba(0, 0, 0, 0.7)";
-      thankYouMessage.style.borderRadius = "10px";
-      thankYouMessage.style.textAlign = "center";
-  
+      // Add the class to the element
+      thankYouMessage.classList.add("thank-you-message");
+      // Set the text content
+      thankYouMessage.textContent = "Thank you for completing this step!";  
+      // Append the element to the body (or another container)
       document.body.appendChild(thankYouMessage);
   
       setTimeout(() => {
         thankYouMessage.style.display = "none";
-      }, 3000); // Hide after 3 seconds
+      }, 5000); // Hide after 3 seconds
       sendUserDataToServer();
     }
   };
@@ -149,22 +151,18 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(() => {
       const successMessage = document.createElement("div");
-      successMessage.textContent = "Data saved successfully!";
-      successMessage.style.color = "green";
-      successMessage.style.marginTop = "10px";
-      successMessage.style.position = "fixed";
-      successMessage.style.top = "50%";
-      successMessage.style.left = "50%";
-      successMessage.style.transform = "translate(0, -50%)";
-      successMessage.style.zIndex = "9999";
-      successMessage.style.padding = "10px 20px";
-      successMessage.style.backgroundColor = "rgba(0, 0, 0, 0.5)";
-      successMessage.style.borderRadius = "5px";
 
+      // Add the class to the element
+      successMessage.classList.add("success-message");
+      
+      // Set the text content
+      successMessage.textContent = "Data saved successfully!";
+      
+      // Append the element to the body (or another container)
       document.body.appendChild(successMessage);
       setTimeout(() => {
         successMessage.style.display = "none";
-      }, 3000);
+      }, 5000);
     })
     .catch(error => {
       console.error('Error in response:', error);
@@ -201,25 +199,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Create "Tie" button after user starts
         tieButton = document.createElement("button");
-        // tieButton.textContent = "Tie";
-        // tieButton.classList.add("tie-button"); 
-        // tieButton.textContent = "Tie";
-        // tieButton.style.position = "fixed";
-        // tieButton.style.bottom = "20px";
-        // tieButton.style.left = "50%";
-        // tieButton.style.transform = "translateX(150%)";
-        // tieButton.style.padding = "10px 40px";
-        // tieButton.style.fontSize = "16px";
-        // tieButton.style.backgroundColor = "#4CAF50";
-        // tieButton.style.color = "white";
-        // tieButton.style.border = "none";
-        // tieButton.style.borderRadius = "5px";
-        // tieButton.style.cursor = "pointer";
 
-        document.body.appendChild(tieButton);
-
-        // Add click event listener for the button
-        
       }).catch((error) => {
         console.error("Error fetching user data:", error);
         alert("Error fetching user data. Starting fresh...");
@@ -229,7 +209,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
         nameInputSection.style.display = "none";
         imageSelection.style.display = "block";
-        saveButton.style.display = "block";
 
         renderImages();
       });
@@ -248,5 +227,6 @@ document.addEventListener("DOMContentLoaded", () => {
       });
   };
 
-  saveButton.addEventListener("click", sendUserDataToServer);
+  // Initialize visibility based on userProgress
+  toggleSaveButtonVisibility();
 });

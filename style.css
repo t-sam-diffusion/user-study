@@ -138,6 +138,22 @@ aside.leaderboard ul li {
   height: auto;
   cursor: pointer;
 }
+.success-message {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -200%); /* Center the message horizontally and vertically */
+  padding: 20px 40px; /* Larger padding for prominence */
+  background-color: rgba(0, 0, 0, 0.7); /* Dark background */
+  color: white; /* White text */
+  border-radius: 10px; /* Rounded corners */
+  text-align: center; /* Center the text inside */
+  font-size: 16px; /* Font size */
+  font-weight: bold; /* Bold text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  cursor: pointer; /* Optional: make it feel interactive like a button */
+  z-index: 9999; /* Ensure it appears above other content */
+}
 
 /* Style for the prompt text */
 .prompt {
@@ -160,8 +176,26 @@ aside.leaderboard ul li {
   font-size: 16px; /* Ensure text is readable */
   font-weight: bold; /* Bold text for emphasis */
   /* transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease; Smooth transition effects */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: 'block'; /* Subtle shadow for depth */
 }
+.thank-you-message {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the message */
+  padding: 20px 40px;
+  background-color: rgba(0, 0, 0, 0.7); /* Dark background */
+  color: white; /* White text */
+  border-radius: 10px; /* Rounded corners */
+  text-align: center; /* Center the text inside */
+  font-size: 16px; /* Font size */
+  font-weight: bold; /* Bold text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  cursor: pointer; /* Pointer cursor for interactivity */
+  z-index: 9999; /* Ensure it appears above other content */
+}
+
 .tie-button {
   position: fixed;
   bottom: 100px;  /* Adjust to place it above the Save button */
@@ -181,7 +215,8 @@ aside.leaderboard ul li {
 .save-button:hover {
   background-color: #45a049; /* Darker green when hovered */
   /* transform: scale(1.05); Slightly enlarge the button for a dynamic feel */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Darker shadow on hover */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  /* Darker shadow on hover */
 }
 
 /* Active effect when button is clicked */
