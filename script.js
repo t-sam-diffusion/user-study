@@ -108,6 +108,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
     userProgress++;  // Increment unified progress
     renderImages();
+    if (userProgress === 159) {
+      const thankYouMessage = document.createElement("div");
+      thankYouMessage.textContent = "Thank you for completing this step!";
+      thankYouMessage.style.color = "green";
+      thankYouMessage.style.marginTop = "20px";
+      thankYouMessage.style.position = "fixed";
+      thankYouMessage.style.top = "50%";
+      thankYouMessage.style.left = "50%";
+      thankYouMessage.style.transform = "translate(-50%, -50%)";
+      thankYouMessage.style.zIndex = "9999";
+      thankYouMessage.style.padding = "20px 40px";
+      thankYouMessage.style.backgroundColor = "rgba(0, 0, 0, 0.7)";
+      thankYouMessage.style.borderRadius = "10px";
+      thankYouMessage.style.textAlign = "center";
+  
+      document.body.appendChild(thankYouMessage);
+  
+      setTimeout(() => {
+        thankYouMessage.style.display = "none";
+      }, 3000); // Hide after 3 seconds
+    }
   };
 
   const sendUserDataToServer = () => {
