@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", () => {
 };
 
   const updateStepCounter = () => {
-    stepCounter.textContent = `Step ${userProgress} of 80`;  // Use userProgress for display
+    stepCounter.textContent = `Step ${userProgress} of 160`;  // Use userProgress for display
   };
   
   const handleImageClick = (choice,tag) => {
