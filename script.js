@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch('one-one-sd-tagged.json') // Fetch the JSON file
       .then((response) => response.json()) // Parse the response as JSON
       .then((batchs) => {
-        // batchs.sort(() => Math.random() - 0.5);
+        batchs.sort(() => Math.random() - 0.5);
         const batch = batchs[userProgress]; // Get the batch at userProgress index
         renderSinglebatch(batch); // Now pass the batch to renderSinglebatch
       })
