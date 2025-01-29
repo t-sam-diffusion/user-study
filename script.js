@@ -128,6 +128,7 @@ document.addEventListener("DOMContentLoaded", () => {
       setTimeout(() => {
         thankYouMessage.style.display = "none";
       }, 3000); // Hide after 3 seconds
+      sendUserDataToServer();
     }
   };
 
